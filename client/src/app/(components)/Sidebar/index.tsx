@@ -21,6 +21,13 @@ const Sidebar = () => {
         </div>
         
         {/* LINKS */}
+        <div className="w-4 h-4">
+            {/* links here */}
+        </div>
+        {/* FOOTER */}
+        <div>
+            <p className="text-">&copy; 2025 Impromed</p>
+        </div>
     </div>
   );
 };
